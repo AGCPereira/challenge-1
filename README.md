@@ -1,6 +1,6 @@
 # challenge-1
 
-## Purpose
+## Description
 A website that allows businesses to:
 * increase visibility on the internest and to find the right customers for the brand
 * control what customers see when they search for the brand
